@@ -1,0 +1,5 @@
+#!name=游戏优化模式
+#!desc=启用后，当系统负载非常高且数据包处理延迟时，将优先考虑UDP数据包。
+
+[General]
+udp-priority = true
